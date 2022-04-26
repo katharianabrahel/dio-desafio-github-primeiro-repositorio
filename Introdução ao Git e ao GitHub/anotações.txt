@@ -1,5 +1,8 @@
-git add = git add [filename] selects that file, and moves it to the staging area, marking it for inclusion in the next commit. You can select all files, a directory, specific files, or even specific parts of a file for staging and commit.
+git add = git add [filename] selects that file, and moves it to the staging area, marking it for inclusion in the next commit.
+You can select all files, a directory, specific files, or even specific parts of a file for staging and commit.
 
-git push = O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto. O comando push transfere commits do repositório local a um repositório remoto.
+git push = O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto.
+O comando push transfere commits do repositório local a um repositório remoto.
 
-git status = The goal of the Git status command is to provide you information about the state of the various files in your working directory, also known as the working tree.
+git status = The goal of the Git status command is to provide you information about the state of the various files in your working directory,
+also known as the working tree.
